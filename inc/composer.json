@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "symfony/yaml": "^3.0",
+    "symfony/var-dumper": "^3.0",
+    "dflydev/dot-access-data": "^1.0",
+    "filp/whoops": "^1.1",
+    "3dots/mail": "^2.3"
+  }
+}
